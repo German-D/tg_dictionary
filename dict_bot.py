@@ -1,6 +1,5 @@
 # В google colab добавить: !pip install pyTelegramBotAPI
-# для установки необходимо в файл requirements.text добавить строку
-# 'PyTelegramBotApi'
+
 from telebot import TeleBot, types
 
 bot = TeleBot(token='Вставь_свой_токен', parse_mode='html') # создание бота
