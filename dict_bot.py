@@ -1,5 +1,6 @@
 # В google colab добавить: !pip install pyTelegramBotAPI
 # Чтобы добавить новое слово — нужно его прописать в массиве DEFINITOINS на 11 строчке
+# Важно все новые аббривиатуры писать только с маленьких букв
 
 from telebot import TeleBot, types
 
