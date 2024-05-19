@@ -11,11 +11,11 @@
 
 Стартовое меню:
 
-![image]()
+![image](https://raw.githubusercontent.com/German-D/tg_dictionary/main/static/menu.png)
 
 После отправки запроса:
 
-![image]()
+![image](https://raw.githubusercontent.com/German-D/tg_dictionary/main/static/answer.png)
 
 ## 💻 Технологии
 
