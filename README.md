@@ -18,12 +18,14 @@
 ![image](https://raw.githubusercontent.com/German-D/tg_dictionary/main/static/answer.png)
 
 <br>
+<br>
 
 ## 💻 Технологии
 
 * Python
 * Библиотека `telebot`
 
+<br>
 <br>
 
 ## ⚙️ Как добавить новые определения или аббревиатуры
