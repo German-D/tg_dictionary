@@ -57,4 +57,5 @@ python3 dict_bot.py
 
 ## Автор
 
-Герман Дольников (Телеграм @dolnikov)
+Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+
